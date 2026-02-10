@@ -176,4 +176,3 @@ aws logs tail /aws/lambda/hello-world-lambda --follow
 - `ch.qos.logback:logback-classic` (1.4.14) - SLF4J implementation with console output
 - `org.projectlombok:lombok` (1.18.30) - `@Slf4j` annotation for logger generation
 ```
-
