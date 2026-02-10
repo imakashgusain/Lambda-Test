@@ -138,6 +138,7 @@ EventBridge triggers Lambda on a schedule. Sample event in `examples/eventbridge
     "message": "Hello from EventBridge"
   }
 }
+
 ```
 
 ## Test Locally (AWS Lambda Runtime Emulator)
